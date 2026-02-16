@@ -8,7 +8,7 @@ const candidates = [
     role: "4x Salesforce Certified Administrator", 
     location: "SÃO PAULO, BRAZIL", 
     price: "$4,600/mo",
-    img: "/WillianC.jpg",
+    img: "WillianC.jpg",
     videoUrl: "https://www.veed.io/embed/2aa485d3-f95f-403c-a810-9bdb3b84ff25",
     cvUrl: "resume willian.pdf", // Replace with link to Willian's PDF
     summary: "Specialized in training and supporting end-users on Salesforce to maximize platform efficiency.",
@@ -49,7 +49,7 @@ const candidates = [
     price: "$4,600/mo",
     img: "EdwardDalton.jpg",
     videoUrl: "https://www.veed.io/embed/6816b96e-2a4a-4f02-b08d-c011662b1c40",
-    cvUrl: "resume willian.pdf", // Replace with link to Willian's PDF
+    cvUrl: "Resume_E_Dalton.pdf", // Replace with link to Willian's PDF
     summary: "High-impact Business Analyst with deep expertise in Health Cloud and Financial Services Cloud. Expert in bridging the gap between stakeholders and technical teams using Agile methodologies.",
     skills: ["Agile/Scrum", "User Story Mapping", "Health Cloud", "Financial Services Cloud", "Process Mapping"],
     certifications: ["Business Analyst", "Agentforce Specialist", "Health Cloud", "Financial Services Cloud", "Data Cloud Consultant"]
